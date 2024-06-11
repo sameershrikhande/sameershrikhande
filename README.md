@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAMEER SHRIKHANDE</h1>
-<h3 align="center">A Front End Web Developer and IT Engineer</h3>
+<h3 align="center">A Full Stack Web Developer and IT Engineer</h3>
 
 # 💫 About Me:
 👨🏻‍💻 💼 Software Engineer<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about React and Front-End<br>🌳 Link tree: https://linktr.ee/Sameer.Shrikhande
